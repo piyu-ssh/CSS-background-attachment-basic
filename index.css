@@ -46,7 +46,7 @@ html {
     height: 700px;
     background-color: cornflowerblue;
     color: white;
-    background-image: url('CSS-background-attachment-basic/sh_opera_0503.PNG');
+    background-image: url('/CSS-background-attachment-basic/sh_opera_0503.PNG');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 980px 680px;
@@ -56,7 +56,7 @@ html {
     height: 700px;
     background-color: cornflowerblue;
     color: white;
-    background-image: url('CSS-background-attachment-basic/sh_opera_0503.PNG');
+    background-image: url('/CSS-background-attachment-basic/sh_opera_0503.PNG');
     background-repeat: no-repeat;
     /* background-position: center; */
     background-attachment: fixed;
